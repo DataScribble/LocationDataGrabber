@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "171631959286",
+    "firebase_url": "https://locationdatagrabber.firebaseio.com",
+    "project_id": "locationdatagrabber",
+    "storage_bucket": "locationdatagrabber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171631959286:android:869367bd440ffeed",
+        "android_client_info": {
+          "package_name": "com.rishabh.locationdatagrabber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171631959286-dsmlup9urrivvhqpdsn9kq350seb53li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishabh.locationdatagrabber",
+            "certificate_hash": "522e38186a4f6268297465ae67608c23f5df62c1"
+          }
+        },
+        {
+          "client_id": "171631959286-vim17lt65bah09o2loobsuq5tm81fmsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5iWIDa5MxJ_gExfdb5TQZBOmON5NFL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171631959286-vim17lt65bah09o2loobsuq5tm81fmsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171631959286:android:2813170686773e6d",
+        "android_client_info": {
+          "package_name": "com.example.dmi.usinglocationgoogleapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171631959286-bjgi6sppvj9j95i4lk9at5ipb9u06uu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dmi.usinglocationgoogleapi",
+            "certificate_hash": "264a4eefb08f3a77ff062b2acf1f4bd0da63da9f"
+          }
+        },
+        {
+          "client_id": "171631959286-vim17lt65bah09o2loobsuq5tm81fmsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5iWIDa5MxJ_gExfdb5TQZBOmON5NFL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171631959286-vim17lt65bah09o2loobsuq5tm81fmsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171631959286:android:53dd40509807f622",
+        "android_client_info": {
+          "package_name": "com.rishabh.locationdatagrabber2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171631959286-0h55244r31msvrctm041qi1h0lj72voj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishabh.locationdatagrabber2",
+            "certificate_hash": "522e38186a4f6268297465ae67608c23f5df62c1"
+          }
+        },
+        {
+          "client_id": "171631959286-vim17lt65bah09o2loobsuq5tm81fmsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5iWIDa5MxJ_gExfdb5TQZBOmON5NFL8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171631959286-vim17lt65bah09o2loobsuq5tm81fmsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
